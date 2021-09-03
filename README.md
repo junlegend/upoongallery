@@ -27,7 +27,7 @@
 <br></br>
 
 #### 협업 도구
-Slack / Git + GitHub / Trello, Notion를 이용해 일정관리, 현황을 관리하였습니다.
+Slack / Git + GitHub / Notion를 이용해 일정관리, 현황을 관리하였습니다.
 <br></br>
 
 #### Front-End 구현 기능
